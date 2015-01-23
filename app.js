@@ -30,8 +30,7 @@ Ext.application({
 		'IpSincronizar_m',
 		'SincronizarPneu_m',
 		'Pneu_m',
-		'sincronizarColeta_m',
-		'usuarioLogado_m'
+		'sincronizarColeta_m'
 	],
 	
 	stores: [
@@ -41,8 +40,7 @@ Ext.application({
 		'IpSincronizar_s',
 		'SincronizarPneu_s',
 		'Pneu_s',
-		'sincronizarColeta_s',
-		'usuarioLogado_s'
+		'sincronizarColeta_s'
 	],
 	
 	viewport:{
@@ -59,7 +57,7 @@ Ext.application({
 	    Ext.Date.monthNames = [
 			'Janeiro',
 			'Fevereiro',
-			'Março',
+			'MarÃ§o',
 			'Abril',
 			'Maio',
 			'Junho',
